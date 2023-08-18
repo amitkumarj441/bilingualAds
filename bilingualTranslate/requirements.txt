@@ -1,2 +1,5 @@
 transformers
+torch
+indic-nlp-library
+sacrebleu
 fire
